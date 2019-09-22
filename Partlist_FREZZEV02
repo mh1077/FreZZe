@@ -61,3 +61,5 @@ U$5      IFX27001V33             IFX27001                TO252              Mein
 U$6      TOBU3                   TOBU3-REICHELT          TOBU3-REICHELT     con-hirschmann      1      Cinch Stecker für die Uhrenlinie
 X1                               ESP-12                  ESP-12             adafruit            1      Prozessor mit WLAN
 X2                               233-102                 233-102            con-wago            1      Muss nicht bestückt werden, hier liegt die Uhrenlinie direkt drauf
+
+Gehäuse FiBox PC100/35LT 80x130x35mm mit transparentem Deckel
